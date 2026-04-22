@@ -12,6 +12,14 @@ The algorithm is implemented using two nested recursions to highlight the induct
 
 The output is displayed as a formatted table that adapts its layout based on the value of `n`. Prime numbers are highlighted with a blue background and white text, non-prime numbers with a white background and black text.
 
+## Result
+
+<div align="center">
+  <img src="result/00.png" width="75%" alt="Maze result"/>
+  <br><br>
+  <img src="result/01.png" width="75%" alt="Maze result"/>
+</div>
+
 ## Usage
 
 Set the upper limit `n` in the source file or pass it as input. The parameter `n` defines the interval [2, n] within which the program computes and displays the prime numbers. The value of `n` can be adjusted based on display size or desired execution speed.
