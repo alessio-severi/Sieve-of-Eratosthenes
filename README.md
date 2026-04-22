@@ -20,6 +20,10 @@ The output is displayed as a formatted table that adapts its layout based on the
   <img src="result/01.png" width="75%" alt="Maze result"/>
 </div>
 
+## Requirements
+
+Python 3.10+
+
 ## Usage
 
 Set the upper limit `n` in the source file or pass it as input. The parameter `n` defines the interval [2, n] within which the program computes and displays the prime numbers. The value of `n` can be adjusted based on display size or desired execution speed.
